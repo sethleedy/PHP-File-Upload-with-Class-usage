@@ -1,6 +1,7 @@
 # PHP-File-Upload-with-Class-usage
 Basicly handling a file upload with a class carrying the weight of processing.
 
+The given instructions:
 The form should allow the user to upload .png, .jpg,.gif, .doc, .xls, and .pdffiles. Into a folder named “uploads”(You
 need to create this folder and include it with your files, remove any uploads before zipping so you do not go
 overAngel’s file limit size)
